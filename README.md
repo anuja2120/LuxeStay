@@ -9,6 +9,8 @@ Used JavaScript to manage user interactions, such as date selection, room type f
 Ensured cross-browser compatibility and responsiveness, making the site accessible on desktops, tablets, and mobile devices.
 
 
+
+
 Some of Images:
 
 ![L1](https://github.com/anuja2120/LuxeStay/assets/137266229/c1f83648-35eb-47a5-9537-3a92fff8e356)
