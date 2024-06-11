@@ -13,6 +13,7 @@ Ensured cross-browser compatibility and responsiveness, making the site accessib
 
 Some of Images:
 
+
 ![L1](https://github.com/anuja2120/LuxeStay/assets/137266229/c1f83648-35eb-47a5-9537-3a92fff8e356)
 ![L2](https://github.com/anuja2120/LuxeStay/assets/137266229/d5050de2-7979-4cac-885d-b5efe7e86bd7)
 ![L3](https://github.com/anuja2120/LuxeStay/assets/137266229/973f99fd-1da9-4cf6-8ee7-1c181f975c89)
